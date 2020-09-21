@@ -21,7 +21,7 @@ maintainer: "barry.jay8@gmail.com"
 authors: [
   "Barry Jay"
 ]
-license: "MIT" # Make sure this is reflected by a LICENSE file in your sources
+license: "MIT" # There is a LICENSE file in each source file
 
 depends: [
   "coq" {>= "8.12"}
